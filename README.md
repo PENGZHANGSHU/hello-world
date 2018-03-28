@@ -1,2 +1,5 @@
 # hello-world
-very first project
+
+Hi everyone!
+
+this is my very first project. just following instructions.
